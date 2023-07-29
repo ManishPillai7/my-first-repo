@@ -1,0 +1,17 @@
+commit 4eae7c9972bd835c19ed30f9dc85947b748feb3b
+Author: ManishPillai7 <manishpillaimohit@gmail.com>
+Date:   Sat Jul 29 11:22:03 2023 +0530
+
+    added a.pdf
+
+commit 05080b9884a6c4b272d14f0f907bec24516a91e0
+Author: ManishPillai7 <manishpillaimohit@gmail.com>
+Date:   Sat Jul 29 10:20:07 2023 +0530
+
+    added .gitignore
+
+commit 34da45bfbefe29a9d2f18c3cf73bba95811d619c
+Author: ManishPillai7 <manishpillaimohit@gmail.com>
+Date:   Wed Jul 26 20:11:20 2023 +0530
+
+    added readme.txt
