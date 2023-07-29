@@ -3,5 +3,4 @@ Manish4
 new line from update-readme
 new line2
 Hellow
-
-Gooooood
+Manish is good
